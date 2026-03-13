@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: react-con
-        image: younggyu123/front_site:1.0
+        image: younggyu123/front_site:1.1
         resources:
           limits:
             memory: "128Mi"
